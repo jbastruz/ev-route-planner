@@ -1,0 +1,17 @@
+{
+  "id": "tesla-model-3-lr-awd",
+  "name": "Tesla Model 3 Long Range AWD (Highland)",
+  "year": 2024,
+  "battery_total_kwh": 78.1,
+  "battery_usable_kwh": 75.0,
+  "consumption_highway_kwh_100km": 17.5,
+  "max_dc_charge_kw": 250,
+  "charging_curve": "0,170,8,250,22,200,45,125,60,80,75,40",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.220,30,0.20,60,0.16,80,0.17,100,0.20,110,0.22,120,0.25,130,0.28",
+  "trafficSpeedTable": "0,0.320,30,0.24,60,0.20,80,0.21,100,0.23,110,0.25",
+  "auxiliaryConsumption": 1.5,
+  "ascent": 0.009,
+  "descent": 0.0045,
+  "source": "ev-database.org/car/1992 + evkx.net"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "renault-megane-etech-ev60",
+  "name": "Renault Megane E-Tech EV60 220hp Optimum Charge",
+  "year": 2024,
+  "battery_total_kwh": 65.0,
+  "battery_usable_kwh": 60.0,
+  "consumption_highway_kwh_100km": 18.5,
+  "max_dc_charge_kw": 129,
+  "charging_curve": "0,85,6,130,18,113,30,85,48,55,60,15",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.230,30,0.20,60,0.17,80,0.18,100,0.21,110,0.23,120,0.26,130,0.30",
+  "trafficSpeedTable": "0,0.330,30,0.24,60,0.21,80,0.22,100,0.24,110,0.26",
+  "auxiliaryConsumption": 1.5,
+  "ascent": 0.0085,
+  "descent": 0.0042,
+  "source": "ev-database.org/car/1521 + evkx.net"
+}

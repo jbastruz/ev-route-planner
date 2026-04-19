@@ -1,0 +1,17 @@
+{
+  "id": "bmw-i4-edrive40",
+  "name": "BMW i4 eDrive40",
+  "year": 2024,
+  "battery_total_kwh": 83.9,
+  "battery_usable_kwh": 81.3,
+  "consumption_highway_kwh_100km": 18.5,
+  "max_dc_charge_kw": 205,
+  "charging_curve": "0,90,8,200,16,197,32,168,40,144,49,126,57,102,65,87,73,60,81,20",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.230,30,0.21,60,0.17,80,0.18,100,0.21,110,0.23,120,0.26,130,0.30",
+  "trafficSpeedTable": "0,0.330,30,0.25,60,0.21,80,0.22,100,0.24,110,0.26",
+  "auxiliaryConsumption": 1.6,
+  "ascent": 0.0095,
+  "descent": 0.0047,
+  "source": "ev-database.org/car/2199 + evkx.net"
+}

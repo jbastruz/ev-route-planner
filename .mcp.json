@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "here-ev": {
+      "command": "python3",
+      "args": [
+        "${CLAUDE_PLUGIN_ROOT}/mcp-servers/here-ev/src/server.py"
+      ],
+      "env": {
+        "HERE_API_KEY": "${HERE_API_KEY}",
+        "EV_ROUTE_VEHICLES_DIR": "${CLAUDE_PLUGIN_ROOT}/vehicles"
+      }
+    }
+  }
+}

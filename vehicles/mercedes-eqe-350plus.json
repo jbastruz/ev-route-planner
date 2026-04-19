@@ -1,0 +1,17 @@
+{
+  "id": "mercedes-eqe-350plus",
+  "name": "Mercedes-Benz EQE 350+ (MY24)",
+  "year": 2024,
+  "battery_total_kwh": 105.0,
+  "battery_usable_kwh": 96.0,
+  "consumption_highway_kwh_100km": 19.5,
+  "max_dc_charge_kw": 173,
+  "charging_curve": "0,90,10,165,19,170,38,155,48,148,58,136,67,112,77,81,86,47,96,40",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.240,30,0.22,60,0.18,80,0.19,100,0.22,110,0.24,120,0.27,130,0.31",
+  "trafficSpeedTable": "0,0.340,30,0.26,60,0.22,80,0.23,100,0.25,110,0.27",
+  "auxiliaryConsumption": 1.9,
+  "ascent": 0.011,
+  "descent": 0.0055,
+  "source": "ev-database.org/car/2205 + evkx.net"
+}

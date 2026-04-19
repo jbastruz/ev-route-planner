@@ -1,0 +1,17 @@
+{
+  "id": "peugeot-e308-54",
+  "name": "Peugeot e-308 54 kWh",
+  "year": 2024,
+  "battery_total_kwh": 54.0,
+  "battery_usable_kwh": 50.8,
+  "consumption_highway_kwh_100km": 19.0,
+  "max_dc_charge_kw": 107,
+  "charging_curve": "0,70,5,100,15,97,25,82,35,65,41,30,51,15",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.230,30,0.21,60,0.18,80,0.19,100,0.22,110,0.24,120,0.27,130,0.31",
+  "trafficSpeedTable": "0,0.330,30,0.26,60,0.22,80,0.23,100,0.25,110,0.27",
+  "auxiliaryConsumption": 1.5,
+  "ascent": 0.0085,
+  "descent": 0.0042,
+  "source": "ev-database.org/car/1744 + evkx.net"
+}

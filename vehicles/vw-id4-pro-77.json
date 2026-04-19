@@ -1,0 +1,17 @@
+{
+  "id": "vw-id4-pro-77",
+  "name": "Volkswagen ID.4 Pro (77 kWh, MY24)",
+  "year": 2024,
+  "battery_total_kwh": 82.0,
+  "battery_usable_kwh": 77.0,
+  "consumption_highway_kwh_100km": 20.0,
+  "max_dc_charge_kw": 175,
+  "charging_curve": "0,90,8,175,23,138,46,130,54,125,62,90,70,40,77,20",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.250,30,0.23,60,0.19,80,0.20,100,0.23,110,0.25,120,0.28,130,0.32",
+  "trafficSpeedTable": "0,0.360,30,0.27,60,0.23,80,0.24,100,0.26,110,0.28",
+  "auxiliaryConsumption": 1.8,
+  "ascent": 0.0095,
+  "descent": 0.0047,
+  "source": "ev-database.org/car/2028 + evkx.net"
+}

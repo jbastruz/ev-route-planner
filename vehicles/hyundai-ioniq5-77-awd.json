@@ -1,0 +1,17 @@
+{
+  "id": "hyundai-ioniq5-77-awd",
+  "name": "Hyundai Ioniq 5 Long Range AWD (77.4 kWh)",
+  "year": 2024,
+  "battery_total_kwh": 77.4,
+  "battery_usable_kwh": 74.0,
+  "consumption_highway_kwh_100km": 21.0,
+  "max_dc_charge_kw": 233,
+  "charging_curve": "0,90,7,225,37,233,44,190,52,110,59,65,74,15",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.260,30,0.24,60,0.20,80,0.21,100,0.24,110,0.26,120,0.29,130,0.33",
+  "trafficSpeedTable": "0,0.370,30,0.28,60,0.24,80,0.25,100,0.27,110,0.29",
+  "auxiliaryConsumption": 1.7,
+  "ascent": 0.010,
+  "descent": 0.005,
+  "source": "ev-database.org/car/1663 + evkx.net (curve approximated for 77.4 kWh)"
+}

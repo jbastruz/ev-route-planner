@@ -1,0 +1,17 @@
+{
+  "id": "tesla-model-y-lr-awd",
+  "name": "Tesla Model Y Long Range AWD",
+  "year": 2024,
+  "battery_total_kwh": 78.1,
+  "battery_usable_kwh": 75.0,
+  "consumption_highway_kwh_100km": 19.5,
+  "max_dc_charge_kw": 250,
+  "charging_curve": "0,170,8,245,22,220,37,160,52,100,60,75,75,35",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.240,30,0.22,60,0.18,80,0.19,100,0.22,110,0.24,120,0.27,130,0.31",
+  "trafficSpeedTable": "0,0.340,30,0.26,60,0.22,80,0.23,100,0.25,110,0.27",
+  "auxiliaryConsumption": 1.6,
+  "ascent": 0.009,
+  "descent": 0.0045,
+  "source": "ev-database.org/car/1619 + evkx.net"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ev-route-planner",
+  "version": "0.1.0",
+  "description": "Plan EV routes with charging stops via HERE API, visualize with Google Maps screenshots.",
+  "author": {
+    "name": "Jean-Baptiste ASTRUZ",
+    "url": "https://github.com/jbastruz"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/jbastruz/ev-route-planner",
+  "keywords": ["ev", "electric-vehicle", "routing", "charging", "here", "polestar", "tesla"]
+}
