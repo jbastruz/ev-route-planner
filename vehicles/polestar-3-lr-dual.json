@@ -1,0 +1,17 @@
+{
+  "id": "polestar-3-lr-dual",
+  "name": "Polestar 3 Long Range Dual Motor",
+  "year": 2024,
+  "battery_total_kwh": 111.0,
+  "battery_usable_kwh": 107.0,
+  "consumption_highway_kwh_100km": 23.5,
+  "max_dc_charge_kw": 250,
+  "charging_curve": "0,160,5,250,18,240,30,215,45,185,60,155,75,120,90,80,100,55,107,30",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.310,30,0.215,60,0.195,80,0.215,100,0.240,110,0.255,120,0.280,130,0.312",
+  "trafficSpeedTable": "0,0.430,30,0.250,60,0.230,80,0.245,100,0.275,110,0.290",
+  "auxiliaryConsumption": 2.0,
+  "ascent": 0.0110,
+  "descent": 0.0055,
+  "source": "ev-database.org/car/1999 + evkx.net (approximated)"
+}

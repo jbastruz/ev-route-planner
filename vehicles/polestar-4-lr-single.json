@@ -1,0 +1,17 @@
+{
+  "id": "polestar-4-lr-single",
+  "name": "Polestar 4 Long Range Single Motor",
+  "year": 2024,
+  "battery_total_kwh": 100.0,
+  "battery_usable_kwh": 94.0,
+  "consumption_highway_kwh_100km": 19.5,
+  "max_dc_charge_kw": 200,
+  "charging_curve": "0,140,5,200,18,195,30,180,45,155,60,130,75,100,85,70,94,40",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.265,30,0.175,60,0.160,80,0.175,100,0.200,110,0.215,120,0.235,130,0.262",
+  "trafficSpeedTable": "0,0.375,30,0.210,60,0.195,80,0.205,100,0.230,110,0.245",
+  "auxiliaryConsumption": 1.8,
+  "ascent": 0.0100,
+  "descent": 0.0050,
+  "source": "ev-database.org/car/1998 + evkx.net (approximated)"
+}

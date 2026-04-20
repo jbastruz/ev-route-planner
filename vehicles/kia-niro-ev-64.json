@@ -1,0 +1,17 @@
+{
+  "id": "kia-niro-ev-64",
+  "name": "Kia Niro EV 64 kWh",
+  "year": 2024,
+  "battery_total_kwh": 64.8,
+  "battery_usable_kwh": 64.0,
+  "consumption_highway_kwh_100km": 17.5,
+  "max_dc_charge_kw": 85,
+  "charging_curve": "0,65,5,85,18,83,32,80,48,72,60,55,64,30",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.240,30,0.155,60,0.138,80,0.155,100,0.178,110,0.192,120,0.212,130,0.240",
+  "trafficSpeedTable": "0,0.340,30,0.188,60,0.170,80,0.182,100,0.205,110,0.220",
+  "auxiliaryConsumption": 1.5,
+  "ascent": 0.0088,
+  "descent": 0.0044,
+  "source": "ev-database.org/car/1807 + fastnedcharging.com"
+}

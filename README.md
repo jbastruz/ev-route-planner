@@ -89,20 +89,20 @@ The plugin exposes four tools on the `here-ev` MCP server:
 
 ## Supported vehicles
 
-Starter catalog (10 models, all European CCS2 connector):
+**35 models** shipped, all European CCS2 connector (`iec62196Type2Combo`).
 
-| ID | Model | Usable | Peak DC |
-|---|---|---|---|
-| `polestar-2-lr-dual` | Polestar 2 Long Range Dual Motor | 78 kWh | 155 kW |
-| `tesla-model-3-lr-awd` | Tesla Model 3 Long Range AWD (Highland) | 75 kWh | 250 kW |
-| `tesla-model-y-lr-awd` | Tesla Model Y Long Range AWD | 75 kWh | 250 kW |
-| `renault-megane-etech-ev60` | Renault Mégane E-Tech EV60 | 60 kWh | 129 kW |
-| `vw-id4-pro-77` | Volkswagen ID.4 Pro | 77 kWh | 175 kW |
-| `hyundai-ioniq5-77-awd` | Hyundai Ioniq 5 LR AWD | 74 kWh | 233 kW |
-| `kia-ev6-77-gtline-awd` | Kia EV6 LR AWD GT-Line | 74 kWh | 233 kW |
-| `bmw-i4-edrive40` | BMW i4 eDrive40 | 81 kWh | 205 kW |
-| `mercedes-eqe-350plus` | Mercedes-Benz EQE 350+ | 96 kWh | 173 kW |
-| `peugeot-e308-54` | Peugeot e-308 54 kWh | 51 kWh | 107 kW |
+**Tesla** — Model 3 RWD/LR AWD (Highland), Model Y RWD/LR AWD, Model S LR Plaid
+**Polestar** — 2 SR Single / 2 LR Dual, 3 LR Dual, 4 LR Single
+**Volkswagen** — ID.3 Pro S, ID.4 Pro, ID.7 Pro, ID.Buzz Pro
+**BMW** — i4 eDrive40, iX xDrive40, iX1 xDrive30
+**Mercedes** — EQA 300 4MATIC, EQE 350+, EQS 450+
+**Hyundai** — Ioniq 5 LR AWD, Ioniq 6 LR AWD, Kona Electric 65
+**Kia** — EV6 LR AWD GT-Line, EV9 GT-Line AWD, Niro EV 64
+**Audi** — Q4 e-tron 45, e-tron GT Quattro
+**Renault** — Mégane E-Tech EV60, Scenic E-Tech 87
+**Others** — Peugeot e-308 54, Škoda Enyaq iV 85, Ford Mustang Mach-E ER AWD, Volvo EX30 Twin Performance, Nissan Ariya 87 e-4ORCE, MG4 Electric LR 77
+
+Use `list_vehicles` MCP tool to get the full list with ids, battery, and peak DC power.
 
 Contributions welcome — add a JSON file under `vehicles/` following the existing schema. Sources: [ev-database.org](https://ev-database.org), [evkx.net](https://evkx.net), [Fastned charging curves](https://fastnedcharging.com/hq/charging-curves).
 

@@ -1,0 +1,17 @@
+{
+  "id": "audi-etron-gt-quattro",
+  "name": "Audi e-tron GT Quattro",
+  "year": 2024,
+  "battery_total_kwh": 93.0,
+  "battery_usable_kwh": 84.0,
+  "consumption_highway_kwh_100km": 21.0,
+  "max_dc_charge_kw": 270,
+  "charging_curve": "0,180,5,270,15,260,28,230,42,200,55,170,68,135,78,90,84,50",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.285,30,0.190,60,0.172,80,0.188,100,0.215,110,0.230,120,0.255,130,0.285",
+  "trafficSpeedTable": "0,0.400,30,0.225,60,0.208,80,0.220,100,0.248,110,0.263",
+  "auxiliaryConsumption": 1.9,
+  "ascent": 0.0108,
+  "descent": 0.0054,
+  "source": "ev-database.org/car/1909 + evkx.net"
+}

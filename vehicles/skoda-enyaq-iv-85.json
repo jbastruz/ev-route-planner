@@ -1,0 +1,17 @@
+{
+  "id": "skoda-enyaq-iv-85",
+  "name": "Škoda Enyaq iV 85",
+  "year": 2024,
+  "battery_total_kwh": 82.0,
+  "battery_usable_kwh": 77.0,
+  "consumption_highway_kwh_100km": 19.0,
+  "max_dc_charge_kw": 135,
+  "charging_curve": "0,95,5,135,15,133,30,128,48,110,62,88,75,62,77,35",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.258,30,0.170,60,0.152,80,0.170,100,0.195,110,0.210,120,0.232,130,0.260",
+  "trafficSpeedTable": "0,0.368,30,0.205,60,0.185,80,0.200,100,0.225,110,0.240",
+  "auxiliaryConsumption": 1.8,
+  "ascent": 0.0100,
+  "descent": 0.0050,
+  "source": "ev-database.org/car/1904 + fastnedcharging.com"
+}

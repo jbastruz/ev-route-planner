@@ -1,0 +1,17 @@
+{
+  "id": "mg4-electric-lr-77",
+  "name": "MG4 Electric Long Range 77 kWh",
+  "year": 2024,
+  "battery_total_kwh": 77.0,
+  "battery_usable_kwh": 74.4,
+  "consumption_highway_kwh_100km": 18.5,
+  "max_dc_charge_kw": 144,
+  "charging_curve": "0,95,5,144,15,140,30,130,48,110,62,85,72,55,74.4,30",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.252,30,0.165,60,0.150,80,0.165,100,0.190,110,0.205,120,0.225,130,0.252",
+  "trafficSpeedTable": "0,0.358,30,0.198,60,0.182,80,0.195,100,0.218,110,0.233",
+  "auxiliaryConsumption": 1.6,
+  "ascent": 0.0095,
+  "descent": 0.0048,
+  "source": "ev-database.org/car/1889 + fastnedcharging.com (approximated)"
+}

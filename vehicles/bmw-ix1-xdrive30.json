@@ -1,0 +1,17 @@
+{
+  "id": "bmw-ix1-xdrive30",
+  "name": "BMW iX1 xDrive30",
+  "year": 2024,
+  "battery_total_kwh": 66.5,
+  "battery_usable_kwh": 64.7,
+  "consumption_highway_kwh_100km": 20.0,
+  "max_dc_charge_kw": 130,
+  "charging_curve": "0,90,5,130,15,128,28,120,42,105,55,85,62,60,64.7,35",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.270,30,0.180,60,0.165,80,0.180,100,0.205,110,0.220,120,0.242,130,0.272",
+  "trafficSpeedTable": "0,0.385,30,0.215,60,0.200,80,0.213,100,0.238,110,0.252",
+  "auxiliaryConsumption": 1.8,
+  "ascent": 0.0102,
+  "descent": 0.0051,
+  "source": "ev-database.org/car/1833 + fastnedcharging.com"
+}

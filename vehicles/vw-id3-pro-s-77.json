@@ -1,0 +1,17 @@
+{
+  "id": "vw-id3-pro-s-77",
+  "name": "Volkswagen ID.3 Pro S (77 kWh)",
+  "year": 2024,
+  "battery_total_kwh": 82.0,
+  "battery_usable_kwh": 77.0,
+  "consumption_highway_kwh_100km": 18.0,
+  "max_dc_charge_kw": 170,
+  "charging_curve": "0,110,5,170,15,165,25,150,40,125,55,105,65,75,72,50,77,25",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.245,30,0.160,60,0.145,80,0.160,100,0.185,110,0.200,120,0.220,130,0.248",
+  "trafficSpeedTable": "0,0.350,30,0.195,60,0.180,80,0.190,100,0.215,110,0.230",
+  "auxiliaryConsumption": 1.6,
+  "ascent": 0.0095,
+  "descent": 0.0047,
+  "source": "ev-database.org/car/1814 + fastnedcharging.com"
+}

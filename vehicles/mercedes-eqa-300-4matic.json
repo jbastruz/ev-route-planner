@@ -1,0 +1,17 @@
+{
+  "id": "mercedes-eqa-300-4matic",
+  "name": "Mercedes-Benz EQA 300 4MATIC",
+  "year": 2024,
+  "battery_total_kwh": 70.5,
+  "battery_usable_kwh": 66.5,
+  "consumption_highway_kwh_100km": 21.5,
+  "max_dc_charge_kw": 100,
+  "charging_curve": "0,80,5,100,15,98,30,95,45,85,58,72,66.5,40",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.290,30,0.195,60,0.178,80,0.195,100,0.222,110,0.238,120,0.260,130,0.292",
+  "trafficSpeedTable": "0,0.410,30,0.235,60,0.215,80,0.230,100,0.255,110,0.270",
+  "auxiliaryConsumption": 1.8,
+  "ascent": 0.0105,
+  "descent": 0.0053,
+  "source": "ev-database.org/car/1861 + fastnedcharging.com"
+}

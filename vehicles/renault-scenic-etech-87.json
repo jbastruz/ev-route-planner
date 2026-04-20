@@ -1,0 +1,17 @@
+{
+  "id": "renault-scenic-etech-87",
+  "name": "Renault Scenic E-Tech 87 kWh",
+  "year": 2024,
+  "battery_total_kwh": 87.0,
+  "battery_usable_kwh": 86.0,
+  "consumption_highway_kwh_100km": 18.5,
+  "max_dc_charge_kw": 150,
+  "charging_curve": "0,100,5,150,15,148,30,140,48,120,62,95,75,68,86,35",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.252,30,0.165,60,0.150,80,0.165,100,0.190,110,0.205,120,0.225,130,0.252",
+  "trafficSpeedTable": "0,0.358,30,0.198,60,0.182,80,0.195,100,0.218,110,0.233",
+  "auxiliaryConsumption": 1.7,
+  "ascent": 0.0098,
+  "descent": 0.0049,
+  "source": "ev-database.org/car/1907 + fastnedcharging.com"
+}

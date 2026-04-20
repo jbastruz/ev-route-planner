@@ -1,0 +1,17 @@
+{
+  "id": "audi-q4-etron-45",
+  "name": "Audi Q4 e-tron 45",
+  "year": 2024,
+  "battery_total_kwh": 82.0,
+  "battery_usable_kwh": 77.0,
+  "consumption_highway_kwh_100km": 19.5,
+  "max_dc_charge_kw": 175,
+  "charging_curve": "0,115,5,175,18,170,30,150,45,125,58,100,68,72,74,48,77,28",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.265,30,0.175,60,0.160,80,0.175,100,0.200,110,0.215,120,0.238,130,0.268",
+  "trafficSpeedTable": "0,0.375,30,0.210,60,0.195,80,0.210,100,0.232,110,0.248",
+  "auxiliaryConsumption": 1.8,
+  "ascent": 0.0102,
+  "descent": 0.0051,
+  "source": "ev-database.org/car/1903 + fastnedcharging.com"
+}

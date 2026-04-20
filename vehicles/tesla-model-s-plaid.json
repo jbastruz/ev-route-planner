@@ -1,0 +1,17 @@
+{
+  "id": "tesla-model-s-plaid",
+  "name": "Tesla Model S Long Range Plaid",
+  "year": 2024,
+  "battery_total_kwh": 100.0,
+  "battery_usable_kwh": 95.0,
+  "consumption_highway_kwh_100km": 20.5,
+  "max_dc_charge_kw": 250,
+  "charging_curve": "0,180,5,250,15,240,25,215,35,190,45,165,55,145,65,120,75,95,85,65,95,35",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.275,30,0.185,60,0.170,80,0.185,100,0.210,110,0.225,120,0.250,130,0.280",
+  "trafficSpeedTable": "0,0.390,30,0.220,60,0.205,80,0.215,100,0.240,110,0.255",
+  "auxiliaryConsumption": 1.9,
+  "ascent": 0.0105,
+  "descent": 0.0053,
+  "source": "ev-database.org/car/1405 + evkx.net"
+}

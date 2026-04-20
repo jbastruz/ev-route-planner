@@ -1,0 +1,17 @@
+{
+  "id": "hyundai-ioniq-6-lr-awd",
+  "name": "Hyundai Ioniq 6 Long Range AWD",
+  "year": 2024,
+  "battery_total_kwh": 77.4,
+  "battery_usable_kwh": 74.0,
+  "consumption_highway_kwh_100km": 16.8,
+  "max_dc_charge_kw": 233,
+  "charging_curve": "0,170,5,233,15,228,28,225,42,215,55,170,68,105,74,55",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.228,30,0.148,60,0.132,80,0.148,100,0.170,110,0.185,120,0.205,130,0.228",
+  "trafficSpeedTable": "0,0.325,30,0.180,60,0.162,80,0.175,100,0.198,110,0.213",
+  "auxiliaryConsumption": 1.6,
+  "ascent": 0.0095,
+  "descent": 0.0048,
+  "source": "ev-database.org/car/1714 + fastnedcharging.com"
+}

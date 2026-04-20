@@ -1,0 +1,17 @@
+{
+  "id": "mercedes-eqs-450",
+  "name": "Mercedes-Benz EQS 450+",
+  "year": 2024,
+  "battery_total_kwh": 118.0,
+  "battery_usable_kwh": 108.4,
+  "consumption_highway_kwh_100km": 20.5,
+  "max_dc_charge_kw": 200,
+  "charging_curve": "0,150,5,200,18,198,32,185,48,160,62,135,75,105,88,75,100,45,108.4,22",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.278,30,0.185,60,0.168,80,0.185,100,0.212,110,0.228,120,0.252,130,0.282",
+  "trafficSpeedTable": "0,0.395,30,0.220,60,0.205,80,0.220,100,0.245,110,0.260",
+  "auxiliaryConsumption": 1.9,
+  "ascent": 0.0108,
+  "descent": 0.0054,
+  "source": "ev-database.org/car/1692 + evkx.net"
+}

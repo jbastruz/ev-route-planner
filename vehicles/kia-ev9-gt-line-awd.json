@@ -1,0 +1,17 @@
+{
+  "id": "kia-ev9-gt-line-awd",
+  "name": "Kia EV9 GT-Line AWD",
+  "year": 2024,
+  "battery_total_kwh": 99.8,
+  "battery_usable_kwh": 96.0,
+  "consumption_highway_kwh_100km": 24.0,
+  "max_dc_charge_kw": 210,
+  "charging_curve": "0,160,5,210,15,208,28,205,45,195,58,155,72,110,85,65,96,35",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.320,30,0.220,60,0.198,80,0.218,100,0.248,110,0.265,120,0.292,130,0.325",
+  "trafficSpeedTable": "0,0.450,30,0.265,60,0.240,80,0.258,100,0.288,110,0.305",
+  "auxiliaryConsumption": 2.0,
+  "ascent": 0.0112,
+  "descent": 0.0056,
+  "source": "ev-database.org/car/1901 + evkx.net"
+}

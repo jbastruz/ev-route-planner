@@ -1,0 +1,17 @@
+{
+  "id": "volvo-ex30-twin-performance",
+  "name": "Volvo EX30 Twin Motor Performance",
+  "year": 2024,
+  "battery_total_kwh": 69.0,
+  "battery_usable_kwh": 64.0,
+  "consumption_highway_kwh_100km": 18.0,
+  "max_dc_charge_kw": 153,
+  "charging_curve": "0,105,5,153,15,150,28,140,42,115,55,92,62,65,64,35",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.245,30,0.160,60,0.145,80,0.160,100,0.185,110,0.198,120,0.218,130,0.245",
+  "trafficSpeedTable": "0,0.348,30,0.195,60,0.178,80,0.190,100,0.215,110,0.228",
+  "auxiliaryConsumption": 1.6,
+  "ascent": 0.0092,
+  "descent": 0.0046,
+  "source": "ev-database.org/car/1943 + fastnedcharging.com"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "vw-id7-pro-77",
+  "name": "Volkswagen ID.7 Pro (77 kWh)",
+  "year": 2024,
+  "battery_total_kwh": 82.0,
+  "battery_usable_kwh": 77.0,
+  "consumption_highway_kwh_100km": 17.8,
+  "max_dc_charge_kw": 175,
+  "charging_curve": "0,115,5,175,18,170,30,155,45,130,58,105,68,75,74,50,77,30",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.242,30,0.158,60,0.142,80,0.158,100,0.182,110,0.198,120,0.218,130,0.245",
+  "trafficSpeedTable": "0,0.345,30,0.192,60,0.175,80,0.188,100,0.212,110,0.228",
+  "auxiliaryConsumption": 1.7,
+  "ascent": 0.0098,
+  "descent": 0.0049,
+  "source": "ev-database.org/car/1884 + fastnedcharging.com"
+}

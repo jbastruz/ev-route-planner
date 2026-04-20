@@ -1,0 +1,17 @@
+{
+  "id": "tesla-model-y-rwd",
+  "name": "Tesla Model Y RWD",
+  "year": 2024,
+  "battery_total_kwh": 60.0,
+  "battery_usable_kwh": 57.5,
+  "consumption_highway_kwh_100km": 18.5,
+  "max_dc_charge_kw": 170,
+  "charging_curve": "0,115,5,170,15,160,25,145,35,125,45,105,50,90,55,70,57.5,45",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.250,30,0.160,60,0.150,80,0.165,100,0.190,110,0.205,120,0.225,130,0.250",
+  "trafficSpeedTable": "0,0.355,30,0.195,60,0.180,80,0.195,100,0.220,110,0.235",
+  "auxiliaryConsumption": 1.7,
+  "ascent": 0.0095,
+  "descent": 0.0048,
+  "source": "ev-database.org/car/1743 + fastnedcharging.com"
+}

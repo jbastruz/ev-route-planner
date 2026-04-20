@@ -1,0 +1,17 @@
+{
+  "id": "bmw-ix-xdrive40",
+  "name": "BMW iX xDrive40",
+  "year": 2024,
+  "battery_total_kwh": 76.6,
+  "battery_usable_kwh": 71.0,
+  "consumption_highway_kwh_100km": 22.0,
+  "max_dc_charge_kw": 150,
+  "charging_curve": "0,100,5,150,15,148,28,135,42,115,55,92,65,68,71,38",
+  "connector": "iec62196Type2Combo",
+  "freeFlowSpeedTable": "0,0.295,30,0.200,60,0.180,80,0.198,100,0.225,110,0.240,120,0.265,130,0.295",
+  "trafficSpeedTable": "0,0.415,30,0.240,60,0.220,80,0.235,100,0.260,110,0.275",
+  "auxiliaryConsumption": 1.9,
+  "ascent": 0.0110,
+  "descent": 0.0055,
+  "source": "ev-database.org/car/1728 + fastnedcharging.com"
+}
